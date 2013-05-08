@@ -12,3 +12,11 @@ mad_libs_lyrics.py
 
 * print the new lyrics with variables to the console
 """
+
+noun1= "baby"
+noun2= "man"
+verb1= "tootin"
+
+print ("Imma buff " +noun1+ " that can dance like a " +noun2)
+print ("I can shake-a mah fanny, I can shak-a mah can")
+print ("Imma tuff " +verb1 +" "+ noun1 + " I can punch on yo buns")
